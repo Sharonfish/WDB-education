@@ -149,16 +149,17 @@
   }
 
   .GreeceInner{
-    height: 21.1%; 
-    width: 21.1%;
+    height: 166.5px; 
+    width: 166.5px;
+    float: left;
     background-color: white;
-    position: absolute;
     display: flex;
     gap: 19.5%;
   }
 
   .Innerrow{
-    width: 100%;
+    position: relative;
+    width: 100px;
     height: 100%;
     background-color: white;
     display: flex;
